@@ -1,0 +1,57 @@
+td{
+    height:50px;
+    width:50px;
+    text-align: center;
+    border-radius:20%;
+}
+.number{
+    line-height: 0px;
+    font-size: 10px;
+    font-weight: bold;
+}
+.name{
+    line-height: 0px;
+    font-weight: bold;
+}
+.category1{
+    background-color: green;
+
+}
+.category2{
+    background-color: rgb(67, 193, 67);
+}
+.category3{
+    background-color: rgb(233, 55, 55);
+
+}
+.category4{
+    background-color: orangered;
+
+}
+.category5{
+    background-color: rgb(243, 137, 155);
+
+}
+.category6{
+    background-color: rgb(90, 88, 88);
+
+}
+.category7{
+    background-color: rgb(97, 97, 209);
+
+}
+.category8{
+    background-color: yellow;
+
+}
+.category9{
+    background-color: rgb(188, 92, 188);
+
+}
+.category10{
+    background-color: rgb(156, 67, 3);
+
+}
+*{
+    background-color: grey;
+}
